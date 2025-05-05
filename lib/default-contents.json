@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "key": "landingTitle",
+    "language": "en",
+    "text": "Vibe Coding"
+  },
+  {
+    "id": "2",
+    "key": "landingHeroDescription",
+    "language": "en",
+    "text": "Discover the useful tools to boost your vibe coding"
+  }
+]
